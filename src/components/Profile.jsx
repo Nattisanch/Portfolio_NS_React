@@ -5,7 +5,7 @@ export default function Profile(){
 
       
         <section className="avatar">
-             <img src="./src/assets/me.jpg" alt="itsme"/>
+             <img src="./assets/me.jpg" alt="itsme"/>
         </section>
         
     
