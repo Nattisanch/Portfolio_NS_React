@@ -10,7 +10,7 @@ To deploy my portfolio, I learned how to use Vercel by carefully reading the doc
 Technologies Used
 ⚛️ React
 ⚡ Vite
-💻 JavaScript (ES6+)
+💻 JavaScript
 🌐 HTML5
 🎨 CSS3
 ☁️ Vercel (for deployment)
